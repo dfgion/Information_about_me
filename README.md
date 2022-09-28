@@ -15,5 +15,6 @@
 [Подробная информация](https://ru.wikipedia.org/wiki/Нейронная_сеть)
 
 ![](https://imgur.com/TBb1s3O.gif)
+theme:SLATE
 
  
