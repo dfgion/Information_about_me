@@ -4,7 +4,7 @@
 ## Сайт:
 1. [Профиль на Нетологии](https://netology.ru/profile/8149266)
 
-2. [GiHub](https://github.com/dfgion)
+2. [GitHub](https://github.com/dfgion)
 ## Цели обучение:
 В совершестве знать язык и выучиться на свою первую профессию
 ## Планы на будущее:
